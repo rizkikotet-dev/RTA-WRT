@@ -1,1 +1,1 @@
-
+openwrt_24.10.0-simpel-main-17022025
